@@ -26,6 +26,4 @@ This is a fresh profile where I'll be uploading my web projects, experiments, an
 
 ---
 
-### GitHub Stats
-
 ![vxiidness activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vxiidness&theme=github-compact)
