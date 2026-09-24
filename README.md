@@ -10,13 +10,6 @@ This is a fresh profile where I'll be uploading my web projects, experiments, an
 
 ---
 
-### Tools & Tech
-
-* **HTML5, CSS3, JavaScript**
-* **VS Code, Git & GitHub**
-* **Figma**
----
-
 ### Technologies
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
