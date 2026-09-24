@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**vxiidness/vxiidness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm vxiidness, a frontend developer based in Germany 🇩🇪.
 
-Here are some ideas to get you started:
+I mostly work on frontend stuff — HTML, CSS, JavaScript, and building clean web interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also use VS Code for coding and Figma for UI design.
+
+This is a fresh profile where I'll be uploading my web projects, experiments, and things I'm currently working on. Everything here is built with passion and attention to detail.
+
+---
+
+### Tools & Tech
+
+* **HTML5, CSS3, JavaScript**
+* **VS Code, Git & GitHub**
+* **Figma**
