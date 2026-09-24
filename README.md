@@ -10,7 +10,6 @@ This is a fresh profile where I'll be uploading my web projects, experiments, an
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vxiidness&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
-  ![Status](https://img.shields.io/badge/Status-Learning_Frontend-7B2CBF?style=flat-square)
 </p>
 
 ---
