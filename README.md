@@ -22,3 +22,5 @@ This is a fresh profile where I'll be uploading my web projects, experiments, an
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,git,github,html,css,js" />
