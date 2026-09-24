@@ -28,6 +28,4 @@ This is a fresh profile where I'll be uploading my web projects, experiments, an
 
 ### GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vxiidness&show_icons=true&theme=tokyonight&hide_border=true" alt="vxiidness stats" />
-</p>
+![vxiidness activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vxiidness&theme=github-compact)
