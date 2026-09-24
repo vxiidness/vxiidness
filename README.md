@@ -8,6 +8,7 @@ I also use VS Code for coding and Figma for UI design.
 
 This is a fresh profile where I'll be uploading my web projects, experiments, and things I'm currently working on. Everything here is built with passion and attention to detail.
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vxiidness.vxiidness)
 ---
 
 ### Technologies
