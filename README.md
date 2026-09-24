@@ -8,10 +8,9 @@ I also use VS Code for coding and Figma for UI design.
 
 This is a fresh profile where I'll be uploading my web projects, experiments, and things I'm currently working on. Everything here is built with passion and attention to detail.
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vxiidness.vxiidness)
-
-![vxiidness GitHub stats](https://github-readme-stats.vercel.app/api?username=vxiidness&show_icons=true&theme=dark)
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vxiidness&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 ---
 
@@ -24,3 +23,11 @@ This is a fresh profile where I'll be uploading my web projects, experiments, an
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=vscode,figma,git,github" />
+
+---
+
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vxiidness&show_icons=true&theme=tokyonight&hide_border=true" alt="vxiidness stats" />
+</p>
